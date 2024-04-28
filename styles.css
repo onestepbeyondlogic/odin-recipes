@@ -19,3 +19,8 @@ strong {
 .optional {
     color: rgb(0, 136, 255);
 }
+
+.quote {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
