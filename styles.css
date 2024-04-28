@@ -16,7 +16,6 @@ strong {
     text-decoration: underline;
 }
 
-#seasonings,
-ul ul {
+.optional {
     color: rgb(0, 136, 255);
 }
